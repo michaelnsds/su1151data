@@ -12,49 +12,49 @@
 			<height normal="15" />
 		</collision>
 	</npc>
-	<npc id="539" displayId="25350" name="Achievement Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="539" displayId="25350" name="Achievement Manager" usingServerSideName="true" title="Achievement Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="541" displayId="25350" name="Castle Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="541" displayId="25350" name="Castle Manager" usingServerSideName="true" title="Castle Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="542" displayId="25350" name="Premium Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="542" displayId="25350" name="Premium Manager" usingServerSideName="true" title="Premium Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="543" displayId="25350" name="GrandBoss Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="543" displayId="25350" name="GrandBoss Manager" usingServerSideName="true" title="GrandBoss Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="553" displayId="25350" name="Report Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="553" displayId="25350" name="Report Manager" usingServerSideName="true" title="Report Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="554" displayId="25350" name="Points Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="554" displayId="25350" name="Points Manager" usingServerSideName="true" title="Points Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="555" displayId="25350" name="Npc Buffer" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Buffer">
+	<npc id="555" displayId="25350" name="Npc Buffer" usingServerSideName="true" title="Suport Buffer" usingServerSideTitle="true" type="L2Buffer">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="556" displayId="25350" name="Black market" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="556" displayId="25350" name="Black market" usingServerSideName="true" title="Black market" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
@@ -72,43 +72,49 @@
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="560" displayId="25350" name="Delevel Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="560" displayId="25350" name="Delevel Manager" usingServerSideName="true" title="Delevel Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="9" />
 			<height normal="34" />
 		</collision>
 	</npc>
-	<npc id="570" displayId="30719" name="Gatekeeper" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2CustomGatekeeper">
+	<npc id="570" displayId="30719" name="Gatekeeper" usingServerSideName="true" title="Gk Global" usingServerSideTitle="true" type="L2CustomGatekeeper">
 		<collision>
 			<radius normal="12" />
 			<height normal="24.5" />
 		</collision>
 	</npc>
-	<npc id="571" displayId="30868" name="Services Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2ServicesManager">
+	<npc id="571" displayId="30868" name="Services Manager" usingServerSideName="true" title="Services Manager" usingServerSideTitle="true" type="L2ServicesManager">
 		<collision>
 			<radius normal="7" />
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="572" displayId="32576" name="GmShop" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Merchant">
+	<npc id="572" displayId="32576" name="GmShop" usingServerSideName="true" title="Gm Shop" usingServerSideTitle="true" type="L2Merchant">
 		<collision>
 			<radius normal="8.5" />
 			<height normal="23.5" />
 		</collision>
 	</npc>
-	<npc id="573" displayId="32808" name="Donate Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2DonateManager">
+	<npc id="573" displayId="32808" name="Donate Manager" usingServerSideName="true" title="Donate Manager" usingServerSideTitle="true" type="L2DonateManager">
 		<collision>
 			<radius normal="15" />
 			<height normal="27.5" />
 		</collision>
 	</npc>
-	<npc id="574" displayId="32597" name="Casino Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="574" displayId="32597" name="Casino Manager" usingServerSideName="true" title="Casino Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="11" />
 			<height normal="24" />
 		</collision>
 	</npc>
-	<npc id="575" displayId="13298" name="Noble Manager" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="575" displayId="13298" name="Noble Manager" usingServerSideName="true" title="Noble Manager" usingServerSideTitle="true" type="L2Npc">
+		<collision>
+			<radius normal="10" />
+			<height normal="22" />
+		</collision>
+	</npc>
+	<npc id="9994" displayId="13298" name="Carol" usingServerSideName="true" title="Enchant Manager" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="10" />
 			<height normal="22" />
@@ -402,22 +408,334 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="9997" displayId="35657" name="Buffer" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="9997" displayId="35657" name="Buffer" usingServerSideName="true" title="Buffer" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="46" />
 			<height normal="72" />
 		</collision>
 	</npc>
-	<npc id="9998" displayId="35657" name="Mini Events" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="9998" displayId="35657" name="Mini Events" usingServerSideName="true" title="Mini Events" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="46" />
 			<height normal="72" />
 		</collision>
 	</npc>
-	<npc id="9999" displayId="31690" name="Main Events" usingServerSideName="true" title="www.l2jsunrise.com" usingServerSideTitle="true" type="L2Npc">
+	<npc id="9999" displayId="31690" name="Main Events" usingServerSideName="true" title="Main Events" usingServerSideTitle="true" type="L2Npc">
 		<collision>
 			<radius normal="24" />
 			<height normal="72" />
+		</collision>
+	</npc>
+	<npc id="38000" displayId="22853"  name="Gutter"  usingServerSideName="true" title="Behemoth Magician" type="L2Monster">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="IsAggressive" value="1" />
+			<skill name="Skill01_ID" id="6769" level="1" /> <!-- Petrify -->
+			<skill name="Skill02_ID" id="6770" level="1" /> <!-- Heal -->
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="13981" /> <!-- rhand: Exclusive to Monsters (Mounted Troops Tactics) -->
+		<acquire expRate="75.9364192249135" sp="57848" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="55817.8012671518" hpRegen="187.410040552143" mp="1846.8" mpRegen="3" />
+			<attack physical="12008.0135566142" magical="8707.81891430402" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="578.861024" magical="635.378064" />
+			<attribute>
+				<attack type="EARTH" value="250" />
+				<defence fire="220" water="220" wind="170" earth="250" holy="220" dark="220" default="230" />
+			</attribute>
+			<speed>
+				<walk ground="82" />
+				<run ground="170" />
+			</speed>
+			<hitTime>480</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="1" /> <!--HP Increase (1x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="15" /> <!--Strong P. Atk. -->
+			<skill id="4411" level="13" /> <!--Slightly Strong M. Atk. -->
+			<skill id="4412" level="11" /> <!--Average P. Def. -->
+			<skill id="4413" level="8" /> <!--Weak M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="10" /> <!--Dragons -->
+			<skill id="5465" level="1" /> <!--Earth Attacks -->
+			<skill id="6769" level="1" /> <!--Petrify -->
+			<skill id="6770" level="1" /> <!--Heal -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300">
+			<clanList>
+				<clan>DRAGON_IN</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<death>
+				<group chance="66">
+					<item id="57" min="24497" max="57145" chance="100" /> <!-- Adena -->
+				</group>				
+			</death>			
+		</dropLists>
+		<collision>
+			<radius normal="25" />
+			<height normal="34.5" />
+		</collision>
+	</npc>
+	<npc id="38001" displayId="22855"  name="Grinder"  usingServerSideName="true" title="Behemoth Scout" type="L2Monster">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="IsAggressive" value="1" />
+			<skill name="Skill01_ID" id="6774" level="1" /> <!-- Stun Attack -->
+			<skill name="Skill02_ID" id="6775" level="1" /> <!-- Soul Breath -->
+		</parameters>
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire expRate="83.0193732963764" sp="62855" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="333456.112945616" hpRegen="185.531972616358" mp="1881.8" mpRegen="3" />
+			<attack physical="10714.2988085721" magical="7316.4772660902" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="584.99232" magical="642.108" />
+			<attribute>
+				<attack type="DARK" value="270" />
+				<defence fire="240" water="240" wind="240" earth="240" holy="190" dark="270" default="250" />
+			</attribute>
+			<speed>
+				<walk ground="25" />
+				<run ground="230" />
+			</speed>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4045" level="1" /> <!--Resist Full Magic Attack -->
+			<skill id="4408" level="8" /> <!--HP Increase (1/4x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="19" /> <!--Extremely Strong P. Atk. -->
+			<skill id="4411" level="19" /> <!--Extremely Strong M. Atk. -->
+			<skill id="4412" level="19" /> <!--Extremely Strong P. Def. -->
+			<skill id="4413" level="5" /> <!--Very Weak M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="9" /> <!--Demons -->
+			<skill id="5467" level="1" /> <!--Dark Attacks -->
+			<skill id="5598" level="12" /> <!--Flash Resistance -->
+			<skill id="6774" level="1" /> <!--Stun Attack -->
+			<skill id="6775" level="1" /> <!--Soul Breath -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<sNpcPropHpRate>0.25</sNpcPropHpRate>
+		<ai type="BALANCED" aggroRange="500" clanHelpRange="500">
+			<clanList>
+				<clan>DRAGON_IN</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<death>
+				<group chance="66">
+					<item id="57" min="65375" max="152689" chance="100" /> <!-- Adena -->
+				</group>				
+			</death>
+			
+		</dropLists>
+		<collision>
+			<radius normal="30" />
+			<height normal="43" />
+		</collision>
+	</npc>
+	<npc id="38002" displayId="22844"  name="Molron"  usingServerSideName="true" title="Behemoth Guard" type="L2Monster">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="IsAggressive" value="1" />
+			<skill name="Skill01_ID" id="6763" level="1" /> <!-- Dragon Earth Strike -->
+			<skill name="Skill02_ID" id="6761" level="1" /> <!-- Dragon Blow Strike -->
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire expRate="81.3706812825836" sp="58916" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="18605.9337557173" hpRegen="187.410040552143" mp="1846.8" mpRegen="3" />
+			<attack physical="10327.681831868" magical="7052.46788014386" random="30" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="578.861024" magical="635.378064" />
+			<attribute>
+				<attack type="EARTH" value="250" />
+				<defence fire="220" water="220" wind="170" earth="250" holy="220" dark="220" default="230" />
+			</attribute>
+			<speed>
+				<walk ground="43" />
+				<run ground="170" />
+			</speed>
+			<hitTime>420</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="11" /> <!--HP Increase (3x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="13" /> <!--Slightly Strong P. Atk. -->
+			<skill id="4411" level="16" /> <!--Very Strong M. Atk. -->
+			<skill id="4412" level="15" /> <!--Strong P. Def. -->
+			<skill id="4413" level="4" /> <!--Extremely Weak M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="10" /> <!--Dragons -->
+			<skill id="5465" level="1" /> <!--Earth Attacks -->
+			<skill id="6761" level="1" /> <!--Dragon Blow Strike -->
+			<skill id="6763" level="1" /> <!--Dragon Earth Strike -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>3</sNpcPropHpRate>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300">
+			<clanList>
+				<clan>DRAGON_IN</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<death>
+				<group chance="66">
+					<item id="57" min="26239" max="61210" chance="100" /> <!-- Adena -->
+				</group>				
+			</death>			
+		</dropLists>
+		<collision>
+			<radius normal="20" />
+			<height normal="36" />
+		</collision>
+	</npc>
+	<npc id="38003" displayId="20639"  name="Core"  usingServerSideName="true" title="Behemoth Jewel" type="L2Monster">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="MoveAroundSocial" value="60" />
+			<param name="MoveAroundSocial1" value="60" />
+			<param name="MoveAroundSocial2" value="60" />
+			<skill name="CheckMagic" id="4046" level="4" /> <!-- Sleep -->
+			<param name="SoulShot" value="200" />
+			<param name="SoulShotRate" value="5" />
+			<param name="SpiritShot" value="100" />
+			<param name="SpiritShotRate" value="10" />
+			<param name="LongRangeGuardRate" value="10" />
+			<skill name="DDMagic" id="4039" level="4" /> <!-- NPC MP Drain -->
+			<skill name="CancelMagic" id="4094" level="4" /> <!-- NPC Cancel Magic -->
+			<skill name="SleepMagic" id="4046" level="4" /> <!-- Sleep -->
+		</parameters>
+		<race>FAIRY</race>
+		<sex>MALE</sex>
+		<acquire expRate="4.2525492" sp="755" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1372.18568" hpRegen="5.5" mp="720.0" mpRegen="2.1" />
+			<attack physical="290.44588" magical="198.33688" random="30" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="195.66302" magical="130.274648808072" />
+			<attribute>
+				<defence fire="20" water="20" wind="53" earth="20" holy="20" dark="20" />
+			</attribute>
+			<speed>
+				<walk ground="80" />
+				<run ground="174" />
+			</speed>
+			<hitTime>390</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4039" level="4" /> <!--NPC MP Drain -->
+			<skill id="4046" level="4" /> <!--Sleep -->
+			<skill id="4094" level="4" /> <!--NPC Cancel Magic -->
+			<skill id="4095" level="1" /> <!--Damage Shield -->
+			<skill id="4408" level="10" /> <!--HP Increase (2x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="10" /> <!--Slightly Weak P. Atk. -->
+			<skill id="4411" level="10" /> <!--Slightly Weak M. Atk. -->
+			<skill id="4412" level="12" /> <!--Slightly Strong P. Def. -->
+			<skill id="4413" level="12" /> <!--Slightly Strong M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="3" /> <!--One-handed Sword -->
+			<skill id="4416" level="13" /> <!--Fairies -->
+		</skillList>
+		<shots shotChance="30" spiritChance="30" />
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai aggroRange="1000" clanHelpRange="300" isAggressive="false">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<death>
+				<group chance="70">
+					<item id="57" min="1196" max="2440" chance="100" /> <!-- Adena -->
+				</group>				
+			</death>			
+		</dropLists>
+		<collision>
+			<radius normal="26" />
+			<height normal="52" />
+		</collision>
+	</npc>
+	<npc id="38004" displayId="22852"  name="Behemoth"  usingServerSideName="true" title="King" type="L2RaidBoss">
+		<!-- Confirmed CT2.5 -->
+		<parameters>
+			<param name="IsAggressive" value="1" />
+			<skill name="Skill01_ID" id="6768" level="1" /> <!-- Stun Attack -->
+		</parameters>
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire expRate="142.73744984083" sp="103445" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="55817.8012671518" hpRegen="187.410040552143" mp="1846.8" mpRegen="3" />
+			<attack physical="12008.0135566142" magical="8707.81891430402" random="30" critical="4" accuracy="0" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="578.861024" magical="635.378064" />
+			<attribute>
+				<attack type="EARTH" value="250" />
+				<defence fire="220" water="220" wind="170" earth="250" holy="220" dark="220" default="230" />
+			</attribute>
+			<speed>
+				<walk ground="100" />
+				<run ground="200" />
+			</speed>
+			<hitTime>480</hitTime>
+		</stats>
+		<status undying="false" canBeSown="true" />
+		<skillList>
+			<skill id="4408" level="10" /> <!--HP Increase (2x) -->
+			<skill id="4409" level="1" /> <!--MP Increase (1x) -->
+			<skill id="4410" level="16" /> <!--Very Strong P. Atk. -->
+			<skill id="4411" level="15" /> <!--Strong M. Atk. -->
+			<skill id="4412" level="16" /> <!--Very Strong P. Def. -->
+			<skill id="4413" level="5" /> <!--Very Weak M. Def. -->
+			<skill id="4414" level="2" /> <!--Standard Type -->
+			<skill id="4415" level="11" /> <!--Spears -->
+			<skill id="4416" level="10" /> <!--Dragons -->
+			<skill id="5465" level="1" /> <!--Earth Attacks -->
+			<skill id="6768" level="1" /> <!--Stun Attack -->
+		</skillList>
+		<exCrtEffect>false</exCrtEffect>
+		<sNpcPropHpRate>2</sNpcPropHpRate>
+		<ai type="BALANCED" aggroRange="300" clanHelpRange="300">
+			<clanList>
+				<clan>DRAGON_IN</clan>
+			</clanList>
+		</ai>
+		<dropLists>
+			<death>
+				<group chance="66">
+					<item id="57" min="45317" max="105714" chance="100" /> <!-- Adena -->
+				</group>				
+			</death>			
+		</dropLists>
+		<collision>
+			<radius normal="40" />
+			<height normal="55" />
+		</collision>
+	</npc>
+	<npc id="60000" displayId="30969" name="Carol" usingServerSideName="true" title="Daily Missions" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="13.5" />
+			<height normal="20.5" />
+		</collision>
+	</npc>
+	<npc id="60001" displayId="30358" name="Durander" usingServerSideName="true" title="Epic Mission" usingServerSideTitle="true" type="L2Merchant">
+		<collision>
+			<radius normal="6" />
+			<height normal="23.8" />
 		</collision>
 	</npc>
 </list>

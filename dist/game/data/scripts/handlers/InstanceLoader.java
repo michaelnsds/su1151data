@@ -35,6 +35,7 @@ import instances.RimKamaloka.RimKamaloka;
 import instances.SanctumOftheLordsOfDawn.SanctumOftheLordsOfDawn;
 import instances.SecretAreaKeucereus.SecretAreaKeucereus;
 import instances.ToTheMonastery.ToTheMonastery;
+import instances.Valefor.BehemothKing.BehemothKing;
 import instances.Zaken.Zaken;
 
 /**
@@ -78,6 +79,7 @@ public class InstanceLoader extends ABLoader
 		SanctumOftheLordsOfDawn.class,
 		SecretAreaKeucereus.class,
 		ToTheMonastery.class,
+		BehemothKing.class,
 		Zaken.class,
 	};
 	
